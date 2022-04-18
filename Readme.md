@@ -44,5 +44,17 @@
     <ul>
     <li>Step 1: Print A - I with a for loop</li>
     <li>Step 2: repeat it for 9 times</li>
+    <li>Step 3: solved it using array of Alphabets as well as ASCII codes</li>
+    </ul>
+</details>
+
+<details>
+    <summary><h3>Pattern 5</h3></summary>
+    <p>9 x 9 (9 - 1)</p>
+    <img src="./patterns/5.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <h4>Steps:</h4>
+    <ul>
+    <li>Step 1: Print 9 - 1 with a for loop</li>
+    <li>Step 2: repeat it for 9 times</li>
     </ul>
 </details>
