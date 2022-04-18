@@ -104,3 +104,15 @@
     <li>Step 3: print * instead of i/j</li>
     </ul>
 </details>
+
+<details>
+<summary><h3>Pattern 10</h3></summary>
+    <p>Right angle triangle (All filled with Alphabets (A - I))</p>
+    <img src="./patterns/10.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <h4>Steps:</h4>
+    <ul>
+    <li>Step 1: Print A - I with a for loop</li>
+    <li>Step 2: assign j <= i and continue the loop</li>
+    <li>Step 3: print j + 64 (ASCII) instead of j</li>
+    </ul>
+</details>
