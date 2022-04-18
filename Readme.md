@@ -58,3 +58,14 @@
     <li>Step 2: repeat it for 9 times</li>
     </ul>
 </details>
+
+<details>
+    <summary><h3>Pattern 6</h3></summary>
+    <p>9 x 9 (9, 9 times then 8, 9 times and so on)</p>
+    <img src="./patterns/6.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <h4>Steps:</h4>
+    <ul>
+    <li>Step 1: Print 9, 9 times with a for loop</li>
+    <li>Step 2: repeat it for 9 times</li>
+    </ul>
+</details>
