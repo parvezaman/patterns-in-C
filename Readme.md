@@ -143,7 +143,7 @@
 </details>
 
 <details>
-<summary><h3>Pattern 1</h3></summary>
+<summary><h3>Pattern 13</h3></summary>
     <p>Right angle triangle (9 - 1 backward)</p>
     <img src="./patterns/13.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
@@ -151,5 +151,16 @@
     <li>Step 1: Print 9 - 1 with a for loop</li>
     <li>Step 2: assign j <= i and continue the loop</li>
     <li>Step 3: print i instead of j</li>
+    </ul>
+</details>
+
+<details>
+<summary><h3>Pattern 14</h3></summary>
+    <p>Reversed Right angle triangle (9 - 1 backward)</p>
+    <img src="./patterns/14.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <h4>Steps:</h4>
+    <ul>
+    <li>Step 1: Print 9 - 1 with a for loop i incremental and j decremantal</li>
+    <li>Step 2: assign j <= i and continue the loop</li>
     </ul>
 </details>
