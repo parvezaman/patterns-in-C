@@ -237,7 +237,7 @@
 
 <summary><h3>Pattern 21</h3></summary>
     <p>Right angle triangle (All filled with *)</p>
-    <img src="./patterns/16.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <img src="./patterns/21.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
     <li>Step 1: first item doesn't varie so j =1</li>
