@@ -134,10 +134,22 @@
 <details>
 <summary><h3>Pattern 12</h3></summary>
     <p>Right angle triangle (9 - 1 backward)</p>
-    <img src="./patterns/11.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <img src="./patterns/12.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
     <li>Step 1: Print 9 - 1 with a for loop</li>
     <li>Step 2: assign j <= i and continue the loop</li>
+    </ul>
+</details>
+
+<details>
+<summary><h3>Pattern 1</h3></summary>
+    <p>Right angle triangle (9 - 1 backward)</p>
+    <img src="./patterns/13.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <h4>Steps:</h4>
+    <ul>
+    <li>Step 1: Print 9 - 1 with a for loop</li>
+    <li>Step 2: assign j <= i and continue the loop</li>
+    <li>Step 3: print i instead of j</li>
     </ul>
 </details>
