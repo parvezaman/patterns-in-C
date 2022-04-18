@@ -2,6 +2,8 @@
 
 - nested loop
 - i loop and j loop
+- if start value is common then j = common value; unless j = i; j>= / J<=; j++ / j--
+- if the last value is common then j>= / J<= "that common value"
 
 <details>
     <summary><h3>Pattern 1</h3></summary>
@@ -162,5 +164,17 @@
     <ul>
     <li>Step 1: Print 9 - 1 with a for loop i incremental and j decremantal</li>
     <li>Step 2: assign j <= i and continue the loop</li>
+    </ul>
+</details>
+
+<details>
+<summary><h3>Pattern 15</h3></summary>
+    <p>Right angle triangle (1 21 321 4321 ....)</p>
+    <img src="./patterns/15.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <h4>Steps:</h4>
+    <ul>
+    <li>Step 1: first items varies so j =i</li>
+    <li>Step 2: Row decremental so j will be decramental</li>
+    <li>Step 3: Column incremental so i will be incremental</li>
     </ul>
 </details>
