@@ -69,3 +69,14 @@
     <li>Step 2: repeat it for 9 times</li>
     </ul>
 </details>
+
+<details>
+    <summary><h3>Pattern 7</h3></summary>
+    <p>Right angle triangle (1 - 9)</p>
+    <img src="./patterns/7.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <h4>Steps:</h4>
+    <ul>
+    <li>Step 1: Print 1 - 9 with a for loop</li>
+    <li>Step 2: assign j <= i and continue the loop</li>
+    </ul>
+</details>
