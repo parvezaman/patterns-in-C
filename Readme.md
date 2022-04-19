@@ -272,7 +272,21 @@
     <ul>
     <li>Step 1: make a square filled with *</li>
     <li>Step 2: i represents row and j represents column</li>
-    <li>Step 3: if(i == 1 || i == 5 || j == 1 || j ==5) printf("*")</li>
+    <li>Step 3: if(i == 1 || i == 9 || j == 1 || j ==9) printf("*")</li>
+    <li>Step 4: else printf(" ")</li>
+    <li>Step 5: if you put 1 space with printf("* "), you need to put 2 spaces with printf("  ") (space = * space + 1)</li>
+    </ul>
+</details>
+
+<details>
+<summary><h3>Pattern 24</h3></summary>
+    <p> * Triangle (Only outline by *)</p>
+    <img src="./patterns/24.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <h4>Steps:</h4>
+    <ul>
+    <li>Step 1: make a triangle filled with *</li>
+    <li>Step 2: i represents row and j represents column</li>
+    <li>Step 3: if(j == 1 || i == 9 || j == i) printf("*")</li>
     <li>Step 4: else printf(" ")</li>
     <li>Step 5: if you put 1 space with printf("* "), you need to put 2 spaces with printf("  ") (space = * space + 1)</li>
     </ul>
