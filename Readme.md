@@ -319,7 +319,7 @@
 
 <details>
 <summary><h3>Pattern 27</h3></summary>
-    <h4> * Triangle (Only outline by *)</h4>
+    <h4> Number Triangle (Right alligned)</h4>
     <img src="./patterns/27_1.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <img src="./patterns/27_2.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <img src="./patterns/27_3.JPG" textAllign="center"  alt="Alt text" title="Optional title">
@@ -334,7 +334,7 @@
 
 <details>
 <summary><h3>Pattern 28</h3></summary>
-    <h4> * Triangle (Only outline by *)</h4>
+    <h4> Number Pyramid</h4>
     <img src="./patterns/27_1.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <img src="./patterns/27_2.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <img src="./patterns/27_3.JPG" textAllign="center"  alt="Alt text" title="Optional title">
