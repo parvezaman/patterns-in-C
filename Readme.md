@@ -316,3 +316,18 @@
     <li>Step 3: instead of printing j directly into to printf("%d ",j), print printf("%d ", k++ % 2)</li>
     </ul>
 </details>
+
+<details>
+<summary><h3>Pattern 27</h3></summary>
+    <h4> * Triangle (Only outline by *)</h4>
+    <img src="./patterns/27_1.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <img src="./patterns/27_2.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <img src="./patterns/27_3.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <h4>Steps:</h4>
+    <ul>
+    <li>Step 1: make a triangle filled with (1 12 123 1234.....) pattern</li>
+    <li>Step 2: Remove the space from printf("%d",j)</li>
+    <li>Step 3: Add another k loop inside i loop in a decremental manner to put the spaces</li>
+    <li>Step 4: While decremental spaces k = end value and upto i</li>
+    </ul>
+</details>
