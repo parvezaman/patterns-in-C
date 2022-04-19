@@ -191,6 +191,7 @@
     </ul>
 </details>
 
+<details>
 <summary><h3>Pattern 17</h3></summary>
     <p>Right angle triangle (123456789 12345678 123467 ......)</p>
     <img src="./patterns/17.JPG" textAllign="center"  alt="Alt text" title="Optional title">
@@ -202,6 +203,7 @@
     </ul>
 </details>
 
+<details>
 <summary><h3>Pattern 18</h3></summary>
     <p>Right angle triangle (123456789 12345678 123467 ......)</p>
     <img src="./patterns/18.JPG" textAllign="center"  alt="Alt text" title="Optional title">
@@ -213,6 +215,7 @@
     </ul>
 </details>
 
+<details>
 <summary><h3>Pattern 19</h3></summary>
     <p>Right angle triangle (123456789 12345678 123467 ......)</p>
     <img src="./patterns/19.JPG" textAllign="center"  alt="Alt text" title="Optional title">
@@ -224,6 +227,7 @@
     </ul>
 </details>
 
+<details>
 <summary><h3>Pattern 20</h3></summary>
     <p>Right angle triangle (123456789 12345678 123467 ......)</p>
     <img src="./patterns/20.JPG" textAllign="center"  alt="Alt text" title="Optional title">
@@ -235,6 +239,7 @@
     </ul>
 </details>
 
+<details>
 <summary><h3>Pattern 21</h3></summary>
     <p>Right angle triangle (All filled with *)</p>
     <img src="./patterns/21.JPG" textAllign="center"  alt="Alt text" title="Optional title">
@@ -246,6 +251,7 @@
     </ul>
 </details>
 
+<details>
 <summary><h3>Pattern 22</h3></summary>
     <p>Right angle triangle (All filled with *)</p>
     <img src="./patterns/22.JPG" textAllign="center"  alt="Alt text" title="Optional title">
