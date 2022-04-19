@@ -291,3 +291,15 @@
     <li>Step 5: if you put 1 space with printf("* "), you need to put 2 spaces with printf("  ") (space = * space + 1)</li>
     </ul>
 </details>
+
+<details>
+<summary><h3>Pattern 25</h3></summary>
+    <h4> * Triangle (Only outline by *)</h4>
+    <img src="./patterns/25_1.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <img src="./patterns/25_2.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <h4>Steps:</h4>
+    <ul>
+    <li>Step 1: make a triangle filled with (1 12 123 1234.....) pattern</li>
+    <li>Step 2: instead of printing j directly into to printf("%d ",j), print printf("%d ", j % 2)</li>
+    </ul>
+</details>
