@@ -8,7 +8,7 @@
 
 <details>
     <summary><h3>Pattern 1</h3></summary>
-    <p>9 x 9 (1 - 9)</p>
+    <h4>9 x 9 (1 - 9)</h4>
     <img src="./patterns/1.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -19,7 +19,7 @@
 
 <details>
     <summary><h3>Pattern 2</h3></summary>
-    <p>9 x 9 (1, 9 times then 2, 9 times and so on)</p>
+    <h4>9 x 9 (1, 9 times then 2, 9 times and so on)</h4>
     <img src="./patterns/2.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -30,7 +30,7 @@
 
 <details>
     <summary><h3>Pattern 3</h3></summary>
-    <p>9 x 9 (filled with *)</p>
+    <h4>9 x 9 (filled with *)</h4>
     <img src="./patterns/3.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -41,7 +41,7 @@
 
 <details>
     <summary><h3>Pattern 4</h3></summary>
-    <p>9 x 9 ( A - I)</p>
+    <h4>9 x 9 ( A - I)</h4>
     <img src="./patterns/4.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -53,7 +53,7 @@
 
 <details>
     <summary><h3>Pattern 5</h3></summary>
-    <p>9 x 9 (9 - 1)</p>
+    <h4>9 x 9 (9 - 1)</h4>
     <img src="./patterns/5.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -64,7 +64,7 @@
 
 <details>
     <summary><h3>Pattern 6</h3></summary>
-    <p>9 x 9 (9, 9 times then 8, 9 times and so on)</p>
+    <h4>9 x 9 (9, 9 times then 8, 9 times and so on)</h4>
     <img src="./patterns/6.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -75,7 +75,7 @@
 
 <details>
     <summary><h3>Pattern 7</h3></summary>
-    <p>Right angle triangle (1 - 9)</p>
+    <h4>Right angle triangle (1 - 9)</h4>
     <img src="./patterns/7.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -86,7 +86,7 @@
 
 <details>
 <summary><h3>Pattern 8</h3></summary>
-    <p>Right angle triangle (1, 1 time, 2, 2 time and so on)</p>
+    <h4>Right angle triangle (1, 1 time, 2, 2 time and so on)</h4>
     <img src="./patterns/8.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -98,7 +98,7 @@
 
 <details>
 <summary><h3>Pattern 9</h3></summary>
-    <p>Right angle triangle (All filled with *)</p>
+    <h4>Right angle triangle (All filled with *)</h4>
     <img src="./patterns/9.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -110,7 +110,7 @@
 
 <details>
 <summary><h3>Pattern 10</h3></summary>
-    <p>Right angle triangle (All filled with Alphabets (A - I))</p>
+    <h4>Right angle triangle (All filled with Alphabets (A - I))</h4>
     <img src="./patterns/10.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -123,7 +123,7 @@
 
 <details>
 <summary><h3>Pattern 11</h3></summary>
-    <p>Right angle triangle (All filled with Alphabets (A - I, A, ALl B and so on))</p>
+    <h4>Right angle triangle (All filled with Alphabets (A - I, A, ALl B and so on))</h4>
     <img src="./patterns/11.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -136,7 +136,7 @@
 
 <details>
 <summary><h3>Pattern 12</h3></summary>
-    <p>Right angle triangle (9 - 1 backward)</p>
+    <h4>Right angle triangle (9 - 1 backward)</h4>
     <img src="./patterns/12.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -147,7 +147,7 @@
 
 <details>
 <summary><h3>Pattern 13</h3></summary>
-    <p>Right angle triangle (9 - 1 backward)</p>
+    <h4>Right angle triangle (9 - 1 backward)</h4>
     <img src="./patterns/13.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -159,7 +159,7 @@
 
 <details>
 <summary><h3>Pattern 14</h3></summary>
-    <p>Reversed Right angle triangle (9 - 1 backward)</p>
+    <h4>Reversed Right angle triangle (9 - 1 backward)</h4>
     <img src="./patterns/14.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -170,7 +170,7 @@
 
 <details>
 <summary><h3>Pattern 15</h3></summary>
-    <p>Right angle triangle (1 21 321 4321 ....)</p>
+    <h4>Right angle triangle (1 21 321 4321 ....)</h4>
     <img src="./patterns/15.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -182,7 +182,7 @@
 
 <details>
 <summary><h3>Pattern 16</h3></summary>
-    <p>Right angle triangle (123456789 12345678 123467 ......)</p>
+    <h4>Right angle triangle (123456789 12345678 123467 ......)</h4>
     <img src="./patterns/16.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -194,7 +194,7 @@
 
 <details>
 <summary><h3>Pattern 17</h3></summary>
-    <p>Right angle triangle (123456789 12345678 123467 ......)</p>
+    <h4>Right angle triangle (123456789 12345678 123467 ......)</h4>
     <img src="./patterns/17.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -206,7 +206,7 @@
 
 <details>
 <summary><h3>Pattern 18</h3></summary>
-    <p>Right angle triangle (123456789 12345678 123467 ......)</p>
+    <h4>Right angle triangle (123456789 12345678 123467 ......)</h4>
     <img src="./patterns/18.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -218,7 +218,7 @@
 
 <details>
 <summary><h3>Pattern 19</h3></summary>
-    <p>Right angle triangle (123456789 12345678 123467 ......)</p>
+    <h4>Right angle triangle (123456789 12345678 123467 ......)</h4>
     <img src="./patterns/19.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -230,7 +230,7 @@
 
 <details>
 <summary><h3>Pattern 20</h3></summary>
-    <p>Right angle triangle (123456789 12345678 123467 ......)</p>
+    <h4>Right angle triangle (123456789 12345678 123467 ......)</h4>
     <img src="./patterns/20.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -242,7 +242,7 @@
 
 <details>
 <summary><h3>Pattern 21</h3></summary>
-    <p>Right angle triangle (All filled with *)</p>
+    <h4>Right angle triangle (All filled with *)</h4>
     <img src="./patterns/21.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -254,7 +254,7 @@
 
 <details>
 <summary><h3>Pattern 22</h3></summary>
-    <p>Right angle triangle (All filled with *)</p>
+    <h4>Right angle triangle (All filled with *)</h4>
     <img src="./patterns/22.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -266,7 +266,7 @@
 
 <details>
 <summary><h3>Pattern 23</h3></summary>
-    <p> * Square (Only outline by *)</p>
+    <h4> * Square (Only outline by *)</h4>
     <img src="./patterns/23.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
@@ -280,7 +280,7 @@
 
 <details>
 <summary><h3>Pattern 24</h3></summary>
-    <p> * Triangle (Only outline by *)</p>
+    <h4> * Triangle (Only outline by *)</h4>
     <img src="./patterns/24.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
