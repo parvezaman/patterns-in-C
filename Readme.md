@@ -294,12 +294,25 @@
 
 <details>
 <summary><h3>Pattern 25</h3></summary>
-    <h4> * Triangle (Only outline by *)</h4>
+    <h4> Triangle (filled with 1,0 repetadly)</h4>
     <img src="./patterns/25_1.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <img src="./patterns/25_2.JPG" textAllign="center"  alt="Alt text" title="Optional title">
     <h4>Steps:</h4>
     <ul>
     <li>Step 1: make a triangle filled with (1 12 123 1234.....) pattern</li>
     <li>Step 2: instead of printing j directly into to printf("%d ",j), print printf("%d ", j % 2)</li>
+    </ul>
+</details>
+
+<details>
+<summary><h3>Pattern 26</h3></summary>
+    <h4> Triangle (filled with 1,0 serially)</h4>
+    <img src="./patterns/26_1.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <img src="./patterns/26_2.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <h4>Steps:</h4>
+    <ul>
+    <li>Step 1: make a triangle filled with (1 23 456 78910.....) pattern</li>
+    <li>Step 2: instead of printing j declare a variable int k =1 and print k++</li>
+    <li>Step 3: instead of printing j directly into to printf("%d ",j), print printf("%d ", k++ % 2)</li>
     </ul>
 </details>
