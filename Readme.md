@@ -4,6 +4,7 @@
 - i loop and j loop
 - if start value is common then j = common value; unless j = i; j>= / J<=; j++ / j--
 - if the last value is common then j>= / J<= "that common value"
+- i represents row and j represents column
 
 <details>
     <summary><h3>Pattern 1</h3></summary>
@@ -260,5 +261,19 @@
     <li>Step 1: first item doesn't varie so j =1</li>
     <li>Step 2: Row incremental so j will be incramental</li>
     <li>Step 3: Column decremental so i will be decremental</li>
+    </ul>
+</details>
+
+<details>
+<summary><h3>Pattern 23</h3></summary>
+    <p> * Square (Only outline by *)</p>
+    <img src="./patterns/23.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <h4>Steps:</h4>
+    <ul>
+    <li>Step 1: make a square filled with *</li>
+    <li>Step 2: i represents row and j represents column</li>
+    <li>Step 3: if(i == 1 || i == 5 || j == 1 || j ==5) printf("*")</li>
+    <li>Step 4: else printf(" ")</li>
+    <li>Step 5: if you put 1 space with printf("* "), you need to put 2 spaces with printf("  ") (space = * space + 1)</li>
     </ul>
 </details>
