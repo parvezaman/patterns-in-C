@@ -245,3 +245,14 @@
     <li>Step 3: Column decremental so i will be decremental</li>
     </ul>
 </details>
+
+<summary><h3>Pattern 22</h3></summary>
+    <p>Right angle triangle (All filled with *)</p>
+    <img src="./patterns/22.JPG" textAllign="center"  alt="Alt text" title="Optional title">
+    <h4>Steps:</h4>
+    <ul>
+    <li>Step 1: first item doesn't varie so j =1</li>
+    <li>Step 2: Row incremental so j will be incramental</li>
+    <li>Step 3: Column decremental so i will be decremental</li>
+    </ul>
+</details>
